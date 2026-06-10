@@ -1,4 +1,4 @@
-# Ubuntu-System-Monitor
+
 # 🖥️ Ubuntu System Monitor
 
 A lightweight, terminal-based system and network monitor written in Python. This tool transforms your terminal into a live dashboard to keep track of your computer's health.
